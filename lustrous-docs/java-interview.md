@@ -10,7 +10,7 @@
 ## ArrayList, Linked 区别
 ## HashMap, HashTable 区别
 ## HashMap, HashSet 区别
-## CurrentHashMap是什么
+## ConCurrentHashMap是什么
 ## Java反射原理，泛型应用
 ## 异常处理
 ## IO流，NIO流
