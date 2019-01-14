@@ -13,7 +13,8 @@ Kmart、The Warehouse Limit、PEPCO、LIDL
 
 项目描述：全面采购管理平台是从概念到交付的全球领先的全面采购管理解决方案供应商 - 结合人员，流程和解决方案。全面采购管理平台帮助零售商和品牌简化从订单到生产和交付的产品开发和采购。
 
-责任描述：1. 
+责任描述：
+  1. 
 
 ## 深圳六格科技有限公司 VylyV Labs
 Java开发工程师 运维工程师 小程序开发工程师|软件部 2018.05.07 ~ 至今
@@ -26,7 +27,11 @@ Vylyv智能内裤、禅迹佛珠
 
 项目描述：禅迹应用是旨在帮助修行的人便于完成每日的诵经任务，及方便与其他修行者进行交流心得体会的一款APP。
 
-责任描述：1. 以Docker为核心的云计算基础设施建设；2. 采用SpringBoot+MyBatis+Redis+MySQL架构开发接口API；3. 采用Spring+SpringMVC+MyBatis+MySQL+Tomcat开发后台管理系统；4. 使用微信小程序原生组件及API开发禅迹小程序。
+责任描述：
+  1. 以Docker为核心的云计算基础设施建设；
+  2. 采用SpringBoot+MyBatis+Redis+MySQL架构开发接口API；
+  3. 采用Spring+SpringMVC+MyBatis+MySQL+Tomcat开发后台管理系统；
+  4. 使用微信小程序原生组件及API开发禅迹小程序。
 
 ## 技能树
 Java 熟练
