@@ -7,14 +7,14 @@
 
 ### JDK
 ```
-基本数据类型 包装类 装箱 拆箱 自动装拆箱 Integer缓存-127~127
+基本数据类型 包装类 装箱 拆箱 自动装拆箱 Integer缓存-128~127
 执行流程
 数组
 关键字 
 修饰符 default private protected public
 Java 对象三大特性：封装、继承、多态 重写 重载
 对象 Object
-字符串 final 字面量 equals index length StringBuffer StringBuilder
+字符串 final 字面量 equals index length AbstractStringBuilder StringBuffer StringBuilder
 集合: Collection List AbastactList ArrayList LinkedList Vector  Set HashSet LinkedHashSet SortedSet TreeSet
 Map HashMap LinkedHashMap HashTable SortedMap TreeMap ConcurrentMap ConcurrentHashMap Collections Arrays
 反射 泛型
@@ -61,6 +61,7 @@ JVM
 排序
   冒泡排序
   选择排序
+  插入排序
 贪心算法
 ...
 ```
